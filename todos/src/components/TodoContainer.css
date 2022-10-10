@@ -1,0 +1,23 @@
+
+.ToDocontainer{
+   height: 500px;
+   width: 500px;
+   overflow: auto;
+}
+.p {
+   text-align:start;
+}
+.card-body{
+   display:flex;
+   justify-content:space-between;
+   /* cursor:grab; */
+}
+.orderNumb{
+   align-self:flex-start;
+}
+.new-card-body {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 50px;
+}
